@@ -1,1 +1,3 @@
-"Machine Learning" 
+Machine Learning
+  - Supervised Learning
+  - Reinforcement Learning
